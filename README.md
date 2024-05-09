@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 สวัสดีครับ ผมนายบวรทัต ศรีนคร ชื่อเล่นชื่อกัน อายุ23ปี จบจากมหาวิทยาลัยราชภัฏอุตรดิตถ์ สาขาเทคโนโลยีสำรวจและภูมิสารสนเทศ Hello, I am Mr. Bawornthat Srinakorn, nickname Gan, 23 years old. I graduated from Uttaradit Rajabhat University with a major in Survey and Geoinformatics Technology.
 
 * 🌍  I'm based in Phrae,Thailand
-* 🖥️  See my portfolio at [My Thesis](http://https://drive.google.com/drive/folders/1L83Ug6pWRbccS0GkRgONT5IoK1AFCK5R?usp=sharing)
+* 🖥️  See my portfolio at [My Thesis](https://drive.google.com/drive/folders/1L83Ug6pWRbccS0GkRgONT5IoK1AFCK5R?usp=sharing)
 * ✉️  You can contact me at [bowornthat3944@gmail.com](mailto:bowornthat3944@gmail.com)
 
 
